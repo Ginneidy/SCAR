@@ -15,13 +15,13 @@
  * Dual licensed under the MIT and GPL licenses.
  */
 .syntaxhighlighter {
-  background-color: #222222 !important;
+  background-color: #333333 !important;
 }
 .syntaxhighlighter .line.alt1 {
-  background-color: #222222 !important;
+  background-color: #333333 !important;
 }
 .syntaxhighlighter .line.alt2 {
-  background-color: #222222 !important;
+  background-color: #333333 !important;
 }
 .syntaxhighlighter .line.highlighted.alt1, .syntaxhighlighter .line.highlighted.alt2 {
   background-color: #253e5a !important;
@@ -40,7 +40,7 @@
 }
 .syntaxhighlighter .gutter .line.highlighted {
   background-color: #435a5f !important;
-  color: #222222 !important;
+  color: #333333 !important;
 }
 .syntaxhighlighter.printing .line .content {
   border: none !important;
