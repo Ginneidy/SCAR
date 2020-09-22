@@ -43,7 +43,7 @@
   font-weight: 300; }
 
 body {
-  color: #94CEE3;
+  color: #95999b;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -1011,7 +1011,7 @@ th {
   padding-right: 20px; }
   .feature-item i {
     font-size: 30px;
-    color: #94CEE3; }
+    color: #95999b; }
   .feature-item h4 {
     font-size: 18px;
     margin-bottom: 20px; }
@@ -1119,7 +1119,7 @@ th {
   background: url(../img/video-area-bg.png) no-repeat center; }
   @media (max-width: 991px) {
     .video-area {
-      background: #94CEE3;
+      background: #95999b;
       padding: 60px 0px; } }
   .video-area .video-part {
     position: relative; }
@@ -1304,7 +1304,7 @@ th {
     .registration-area .course-form-section .course-form-area .form-control {
       background: transparent;
       border: 0;
-      border-bottom: 1px solid #94CEE3;
+      border-bottom: 1px solid #95999b;
       padding: 20px;
       font-size: 13px;
       border-radius: 0px;
@@ -1371,7 +1371,7 @@ th {
     position: absolute;
     top: -30px;
     right: 30px;
-    background: #94CEE3;
+    background: #95999b;
     padding: 30px;
     text-align: center; }
     @media (min-width: 1921px) {
@@ -1457,7 +1457,7 @@ th {
     margin-bottom: 20px; }
     .course-details-left .course-list li .btn {
       background: #f9f9fb;
-      color: #94CEE3;
+      color: #95999b;
       box-shadow: none;
       font-size: 12px;
       height: 32px;
@@ -1502,7 +1502,7 @@ th {
     padding: 10px 22px;
     margin-bottom: 10px; }
     .right-contents ul li a {
-      color: #94CEE3;
+      color: #95999b;
       text-align: left; }
       .right-contents ul li a p {
         margin-bottom: 0px; }
@@ -1726,7 +1726,7 @@ th {
   .post-content-area .single-post .date a,
   .post-content-area .single-post .view a,
   .post-content-area .single-post .comments a {
-    color: #94CEE3;
+    color: #95999b;
     margin-right: 10px;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -1806,7 +1806,7 @@ th {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #94CEE3;
+  color: #95999b;
   border: none; }
 
 .blog-pagination .page-link .lnr {
@@ -1943,7 +1943,7 @@ th {
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s; }
     .widget-wrap .post-category-widget .cat-list li a {
-      color: #94CEE3; }
+      color: #95999b; }
     .widget-wrap .post-category-widget .cat-list li:hover {
       border-color: #333333; }
       .widget-wrap .post-category-widget .cat-list li:hover p {
@@ -2266,7 +2266,7 @@ h6 {
 .typography h4,
 .typography h5,
 .typography h6 {
-  color: #94CEE3; }
+  color: #95999b; }
 
 .button-area {
   background: #fff; }
@@ -2539,7 +2539,7 @@ h6 {
     line-height: 1.82em !important; }
     .ordered-list li span {
       font-weight: 300;
-      color: #94CEE3; }
+      color: #95999b; }
 
 .ordered-list-alpha li {
   margin-left: 30px;
@@ -2549,7 +2549,7 @@ h6 {
   line-height: 1.82em !important; }
   .ordered-list-alpha li span {
     font-weight: 300;
-    color: #94CEE3; }
+    color: #95999b; }
 
 .ordered-list-roman li {
   margin-left: 30px;
@@ -2559,7 +2559,7 @@ h6 {
   line-height: 1.82em !important; }
   .ordered-list-roman li span {
     font-weight: 300;
-    color: #94CEE3; }
+    color: #95999b; }
 
 .single-input {
   display: block;
@@ -3084,7 +3084,7 @@ h6 {
       -moz-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s;
-      color: #94CEE3; }
+      color: #95999b; }
       .footer-area .single-footer-widget ul li a:hover {
         color: #fff; }
   .footer-area .single-footer-widget .form-wrap {
@@ -3105,16 +3105,16 @@ h6 {
       box-shadow: none; }
     .footer-area .single-footer-widget input.placeholder {
       padding-left: 10px;
-      color: #94CEE3; }
+      color: #95999b; }
     .footer-area .single-footer-widget input:-moz-placeholder {
       padding-left: 10px;
-      color: #94CEE3; }
+      color: #95999b; }
     .footer-area .single-footer-widget input::-moz-placeholder {
       padding-left: 10px;
-      color: #94CEE3; }
+      color: #95999b; }
     .footer-area .single-footer-widget input::-webkit-input-placeholder {
       padding-left: 10px;
-      color: #94CEE3; }
+      color: #95999b; }
   .footer-area .single-footer-widget .click-btn {
     color: #fff;
     border-radius: 0;
