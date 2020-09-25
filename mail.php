@@ -1,6 +1,6 @@
 <?php
     $to = 'rasud@udistrital.edu.co';
-    $firstname = $_POST["fname"];
+    $firstname = $_POST["name"];
     $email= $_POST["email"];
     $text= $_POST["message"];
     $phone= $_POST["phone"];
