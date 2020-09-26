@@ -13,6 +13,7 @@ if (!isset($_POST['submit'])) {
 }
 if (isset($_POST['submit'])) {
     $to = 'rasud@udistrital.edu.co';
+<<<<<<< HEAD
     $firstname = $_POST["fname"];
     $email = $_POST["email"];
     $text = $_POST["message"];
@@ -52,6 +53,13 @@ if (isset($_POST['submit'])) {
                 'allow_self_signed' => true
             )
         );
+=======
+    $firstname = $_POST["name"];
+    $email= $_POST["email"];
+    $text= $_POST["message"];
+    $phone= $_POST["phone"];
+    
+>>>>>>> f8fe23ea5e8452929a303ccb551d4efc9d822be4
 
         //Server settings
         $mail->SMTPDebug = 0;                       //Ver errores
